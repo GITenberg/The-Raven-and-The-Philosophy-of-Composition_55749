@@ -1,0 +1,29 @@
+_repo: The-Raven-and-The-Philosophy-of-Composition_55749
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Perrett, Galen J.
+    gutenberg_agent_id: '48490'
+    url: http://www.gutenberg.org/2009/agents/48490
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '2017-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Raven and The Philosophy of Composition
+url: http://www.gutenberg.org/ebooks/55749
