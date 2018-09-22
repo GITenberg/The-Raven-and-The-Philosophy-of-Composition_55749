@@ -5,6 +5,9 @@ contributor:
     agent_name: Perrett, Galen J.
     gutenberg_agent_id: '48490'
     url: http://www.gutenberg.org/2009/agents/48490
+covers:
+- cover_type: archival
+  image_path: 55749-h/images/cover.jpg
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55749#The-Raven-and-The-Philosophy-of-Composition
 gutenberg_issued: '2017-10-14'
 gutenberg_type: Text
 identifiers:
